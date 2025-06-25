@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Analysis — DBT + Python
+# 🎬 Netflix Data Analysis - DBT + Python
 
 This project uses **DBT Core** and **Python** to perform analytics and data transformation on Netflix-related datasets. The goal is to apply best practices in analytics engineering — including modular SQL modeling, testing, and documentation — to gain insights from data.
 
