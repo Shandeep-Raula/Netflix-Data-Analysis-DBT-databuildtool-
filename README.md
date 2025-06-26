@@ -17,3 +17,7 @@ cd Netflix-Data-Analysis-DBT-databuildtool-
 - Snowflake 
 - AWS (S3 ,IAM)
 - SQL
+
+
+
+
