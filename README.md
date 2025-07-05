@@ -13,7 +13,10 @@ cd Netflix-Data-Analysis-DBT-databuildtool-
 
 
 ### Tool and Technology 
-- DBT 
+- DBT
+```
+  pip install dbt-snowflake
+```
 - Snowflake 
 - AWS (S3 ,IAM)
 - SQL
