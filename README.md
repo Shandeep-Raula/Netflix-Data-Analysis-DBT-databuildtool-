@@ -16,6 +16,7 @@ This project shows how to:
 ---
 
 ## 📂 Project Structure
+```
 ├── models/                # DBT models (staging, intermediate, marts)
 │   ├── staging/           # Raw data cleaned and staged
 │   ├── intermediate/      # Business logic transformations
@@ -26,3 +27,4 @@ This project shows how to:
 ├── analyses/              # Ad-hoc analyses (if any)
 ├── dbt_project.yml        # DBT project configuration
 └── README.md              # Project documentation
+```
